@@ -5,7 +5,9 @@ Here I am going to upload medium and hard problems that I solved in Leetcode
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | 2 | [Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/2_addTwoNumbers.py) | ArrayHashing - II | 88.9 % | 46.91% |
 | 49 | [GroupAnagrams](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/49_groupAnagrams.py) | ArrayHashing - II | 55.1% | 77.2% | 
+| 347 | [Kfrequent](https://leetcode.com/problems/top-k-frequent-elements/) |  |  |  |  |
 | |  |  |  |  |  |
+
 
 > This repository could be upgraded by adding more info about each problem 
 > But it shouldn't be done with hand. I saw some people using leetcode API 
