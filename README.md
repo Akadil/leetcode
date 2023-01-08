@@ -8,6 +8,7 @@ Here I am going to upload medium and hard problems that I solved in Leetcode
 | 347 | [Kfrequent](https://leetcode.com/problems/top-k-frequent-elements/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/347_topKFrequentElements.py) | ArrayHashing - II | 60% | 100% |
 | 238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/238_productArrayExceptSelf.py) | ArrayHashing - II | 90% | 50% |
 | 36 | [valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/36_validSudoku.py) | ArrayHashing - II | 72% | 72% |
+| 128 | [Longest Consecutive numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/128_longestConsecutiveSequence.py) | ArrayHashing - II | 90% | 100% |
 | |  |  |  |  |  |
 
 
