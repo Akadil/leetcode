@@ -9,6 +9,8 @@ Here I am going to upload medium and hard problems that I solved in Leetcode
 | 238 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/238_productArrayExceptSelf.py) | ArrayHashing - II medium | 90% | 50% |
 | 36 | [valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/36_validSudoku.py) | ArrayHashing - II medium | 72% | 72% |
 | 128 | [Longest Consecutive numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/128_longestConsecutiveSequence.py) | ArrayHashing - II medium | 90% | 100% |
+| 15 | [3 sum](https://leetcode.com/problems/3sum/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/015_3sum.py) |  2 pointers - II medium | 60% | 70% |
+| 167 | [Two sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/167_twoSumII.py) | 2 pointers - II medium | 70% | 90% |
 | |  |  |  |  |  |
 
 
