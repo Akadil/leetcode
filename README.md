@@ -9,10 +9,10 @@ Here I am going to upload medium and hard problems that I solved in Leetcode
 | 4 (4) | [238 - Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/238_productArrayExceptSelf.py) | ArrayHashing - II medium | 90% | 50% |
 | 5 (5) | [36 - valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/36_validSudoku.py) | ArrayHashing - II medium | 72% | 72% |
 | 6 (6) | [128 - Longest Consecutive numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/128_longestConsecutiveSequence.py) | ArrayHashing - II medium | 90% | 100% |
-| 1 (7) | [15 - 3 sum](https://leetcode.com/problems/3sum/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/015_3sum.py) |  2 pointers - II medium | 60% | 70% |
-| 2 (8) | [167 - Two sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/167_twoSumII.py) | 2 pointers - II medium | 70% | 90% |
-| 3 (9) | [11 - Contains most water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/011_containerWithMostWater.py) | 2 pointers - II medium | 90% | 60% |
-| 4 (10) | [42 - Trap Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/042_trappingRainWater.py) | 2 pointers - I hard | 80% | 60% |
+| 7 (1) | [15 - 3 sum](https://leetcode.com/problems/3sum/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/015_3sum.py) |  2 pointers - II medium | 60% | 70% |
+| 8 (2) | [167 - Two sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/167_twoSumII.py) | 2 pointers - II medium | 70% | 90% |
+| 9 (3) | [11 - Contains most water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/011_containerWithMostWater.py) | 2 pointers - II medium | 90% | 60% |
+| 10 (4) | [42 - Trap Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/042_trappingRainWater.py) | 2 pointers - I hard | 80% | 60% |
 | |  |  |  |  |  |
 
 
