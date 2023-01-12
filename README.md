@@ -1,5 +1,5 @@
 # leetcode
-Here I am going to upload medium and hard problems that I solved in Leetcode. I use neetcode tutorial as a guide
+Here I am going to upload medium and hard problems that I solved in Leetcode. I use neetcode tutorial as a guide \
 Here is the [Link](https://leetcode.com/Akadil/) for my leetcode account
 
 | # | Title | Solution | Topic and problem level | Time | Space |
