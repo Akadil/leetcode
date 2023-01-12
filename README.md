@@ -1,6 +1,6 @@
 # leetcode
 Medium and Hard problems only \
-My leetcode [Link](https://leetcode.com/Akadil/)
+My leetcode account [Link](https://leetcode.com/Akadil/)
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
