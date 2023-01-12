@@ -3,7 +3,7 @@ Here I am going to upload medium and hard problems that I solved in Leetcode
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
-| 1 (1) | [2 - Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/2_addTwoNumbers.py) | ArrayH - II medium | 88.9 % | 46.91% |
+| 1 (1) | [2 - Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/2_addTwoNumbers.py) | Array - II medium | 88.9 % | 46.91% |
 | 2 (2) | [49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/49_groupAnagrams.py) | Array - II medium | 55.1% | 77.2% | 
 | 3 (3) | [347 - K frequent](https://leetcode.com/problems/top-k-frequent-elements/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/347_topKFrequentElements.py) | Array - II medium | 60% | 100% |
 | 4 (4) | [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/238_productArrayExceptSelf.py) | Array - II medium | 90% | 50% |
