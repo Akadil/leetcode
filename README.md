@@ -14,6 +14,10 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 8 (2) | [167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/167_twoSumII.py) | 2 pointers - II medium | 70% | 90% |
 | 9 (3) | [11 - Contains Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/011_containerWithMostWater.py) | 2 pointers - II medium | 90% | 60% |
 | 10 (4) | [42 - Trap Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/042_trappingRainWater.py) | 2 pointers - I hard | 80% | 60% |
+| 11 (1) | [155 - Min Stack](https://leetcode.com/problems/min-stack/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/155_minStack.py) | Stack - II medium | 98% | 41% |
+| 12 (2) | [150 - Evaluate Reverse Polish](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/150_evaluateReversePolishNotation.py) | Stack - II medium | 80% | 90% |
+| 13 (3) | [022 - Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/) | [link](https://github.com/Akadil/leetcode/blob/main/stack/022_generateParenthesis.py) | Stack - II medium | 80% | 40% |
+| 14 (4) | [739 - Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/739_dailyTemperatures.py) | Stack - II medium | 83% | 90% |
 | |  |  |  |  |  |
 
 
