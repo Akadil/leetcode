@@ -19,6 +19,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 13 (3) | [022 - Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/description/) | [link](https://github.com/Akadil/leetcode/blob/main/stack/022_generateParenthesis.py) | Stack - II medium | 80% | 40% |
 | 14 (4) | [739 - Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/739_dailyTemperatures.py) | Stack - II medium | 83% | 90% |
 | 15 (5) | [853 - Car Fleet](https://leetcode.com/problems/car-fleet/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/853_carFleet.py) | Stack - II medium | 80% | 85% |
+| 16 (6) | [84 - Largest Rectangle](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/084_largestRectangle.py) | Stack - I hard | 100% | 60% |
 | |  |  |  |  |  |
 
 
