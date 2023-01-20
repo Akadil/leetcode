@@ -20,6 +20,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 14 (4) | [739 - Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/739_dailyTemperatures.py) | Stack - II medium | 83% | 90% |
 | 15 (5) | [853 - Car Fleet](https://leetcode.com/problems/car-fleet/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/853_carFleet.py) | Stack - II medium | 80% | 85% |
 | 16 (6) | [84 - Largest Rectangle](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/084_largestRectangle.py) | Stack - I hard | 100% | 60% |
+| 17 (1) |[143 - Reorder list](https://leetcode.com/problems/reorder-list/) | [Link](https://github.com/Akadil/leetcode/blob/main/linkedList/143_reorderlist.py) | Linked List - II medium | 87.8% | 50.3% |
+| 18 (2) | [19 - Remove nth mode from list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/Akadil/leetcode/blob/main/linkedList/019_removeNNode.py) | Linked list - II medium | 79.2% | 74.6% |
 | |  |  |  |  |  |
 
 
