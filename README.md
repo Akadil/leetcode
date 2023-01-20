@@ -4,11 +4,11 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
-| 1 (1) | [2 - Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/2_addTwoNumbers.py) | Array - II medium | 88.9 % | 46.91% |
-| 2 (2) | [49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/49_groupAnagrams.py) | Array - II medium | 55.1% | 77.2% | 
+| 1 (1) | [2 - Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/002_addTwoNumbers.py) | Array - II medium | 88.9 % | 46.91% |
+| 2 (2) | [49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/049_groupAnagrams.py) | Array - II medium | 55.1% | 77.2% | 
 | 3 (3) | [347 - K frequent](https://leetcode.com/problems/top-k-frequent-elements/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/347_topKFrequentElements.py) | Array - II medium | 60% | 100% |
 | 4 (4) | [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/238_productArrayExceptSelf.py) | Array - II medium | 90% | 50% |
-| 5 (5) | [36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/36_validSudoku.py) | Array - II medium | 72% | 72% |
+| 5 (5) | [36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/036_validSudoku.py) | Array - II medium | 72% | 72% |
 | 6 (6) | [128 - Longest Consecutive Numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/128_longestConsecutiveSequence.py) | Array - II medium | 90% | 100% |
 | 7 (1) | [15 - 3 Sum](https://leetcode.com/problems/3sum/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/015_3sum.py) |  2 pointers - II medium | 60% | 70% |
 | 8 (2) | [167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/167_twoSumII.py) | 2 pointers - II medium | 70% | 90% |
