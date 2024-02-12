@@ -24,6 +24,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 18 (2) | [19 - Remove nth mode from list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/Akadil/leetcode/blob/main/linkedList/019_removeNNode.py) | Linked list - II medium | 79.2% | 74.6% |
 | 19 | [707 - Linked list design](https://leetcode.com/problems/design-linked-list/) | [Link - C++](https://github.com/Akadil/leetcode/blob/main/linkedList/707_linkedListDesign.cpp) | Linked list - II medium | 78.80% | 6.6% |
 | 20 | [1472 - Design a browser history](https://leetcode.com/problems/design-browser-history/description/) | [Link - C++](https://github.com/Akadil/leetcode/blob/main/linkedList/1472_designBrowserHistory.cpp) | Linked list - II medium | 63.97% | 21.24% |
+| 21 | [912 - Sort an array](https://leetcode.com/problems/sort-an-array/) | [Link - c++](https://github.com/Akadil/leetcode/blob/main/sorting/912_sortAnArray.cpp) | Sorting - II medium | 38.95% | 26.54% |
+| 22 | [23 - merge K sorted arrays](https://leetcode.com/problems/merge-k-sorted-lists/) | [Link c++](https://github.com/Akadil/leetcode/blob/main/sorting/23_mergeKSortedList.cpp) | Sorting - I hard | 5.10% | 45.59% |
 | |  |  |  |  |  |
 
 
