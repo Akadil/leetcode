@@ -25,8 +25,9 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 19 | [707 - Linked list design](https://leetcode.com/problems/design-linked-list/) | [Link - C++](https://github.com/Akadil/leetcode/blob/main/linked_list/707_linkedListDesign.cpp) | Linked list - medium | 78.80% | 6.6% |
 | 20 | [1472 - Design a browser history](https://leetcode.com/problems/design-browser-history/description/) | [Link - C++](https://github.com/Akadil/leetcode/blob/main/linked_list/1472_designBrowserHistory.cpp) | Linked list - medium | 63.97% | 21.24% |
 | 21 | [912 - Sort an array](https://leetcode.com/problems/sort-an-array/) | [Link - C++](https://github.com/Akadil/leetcode/blob/main/sorting/912_sortAnArray.cpp) | Sorting - medium | 38.95% | 26.54% |
-| 22 | [23 - merge K sorted arrays](https://leetcode.com/problems/merge-k-sorted-lists/) | [Link C++](https://github.com/Akadil/leetcode/blob/main/sorting/23_mergeKSortedList.cpp) | Sorting - hard | 49.83% | 44.80% |
-| 23 | [215 - Find kth largest element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/sorting/215_kthLargestElement.cpp) | Sorting - medium | 5.04% | 76.41% |
+| 22 | [23 - Merge K sorted arrays](https://leetcode.com/problems/merge-k-sorted-lists/) | [Link C++](https://github.com/Akadil/leetcode/blob/main/sorting/23_mergeKSortedList.cpp) | Sorting - hard | 49.83% | 44.80% |
+| 23 | [215 - Find kth largest element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/sorting/215_kthLargestElement.cpp) | Sorting, QuickSort - medium | 5.04% | 76.41% |
+| 24 | [75 - Sort colors](https://leetcode.com/problems/sort-colors/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/sorting/75_sortColors.cpp) | Sorting, Bucket - medium | 13.21% | 39.45% |
 | |  |  |  |  |  |
 
 
