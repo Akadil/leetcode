@@ -5,8 +5,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
-| 26 | [875 - koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/875_kokoEatingBananas.cpp) | Binary Search - medium | 64% | 36% |
 | 27 | [701 - Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/701_insertIntoBinaryTree.cpp) | Trees - medium | 26% | 56% |
+| 26 | [875 - koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/875_kokoEatingBananas.cpp) | Binary Search - medium | 64% | 36% |
 | 26 | [875 - koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) | [c++](https://github.com/Akadil/leetcode/blob/main/binary_search/875_kokoEatingBananas.cpp) | Binary Search - medium | 64% | 36% |
 | 25 | [74 - Search 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/74_search2DMatrix.cpp) | Binary Search - medium | 24% | 44% |
 | 24 | [75 - Sort colors](https://leetcode.com/problems/sort-colors/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/sorting/75_sortColors.cpp) | Sorting, Bucket - medium | 13.21% | 39.45% |
