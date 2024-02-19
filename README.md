@@ -28,6 +28,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 22 | [23 - Merge K sorted arrays](https://leetcode.com/problems/merge-k-sorted-lists/) | [Link C++](https://github.com/Akadil/leetcode/blob/main/sorting/23_mergeKSortedList.cpp) | Sorting - hard | 49.83% | 44.80% |
 | 23 | [215 - Find kth largest element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/sorting/215_kthLargestElement.cpp) | Sorting, QuickSort - medium | 5.04% | 76.41% |
 | 24 | [75 - Sort colors](https://leetcode.com/problems/sort-colors/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/sorting/75_sortColors.cpp) | Sorting, Bucket - medium | 13.21% | 39.45% |
+| 25 | [74 - Search 2D matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/74_search2DMatrix.cpp) | Binary Search - medium | 24% | 44% |
 | |  |  |  |  |  |
 
 
