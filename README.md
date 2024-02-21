@@ -5,6 +5,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
+| 29 | [230 - Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/230_kthSmallestElementInBST.cpp) | Trees BST - medium | 86% | 69% |
 | 28 | [405 - Delete node in BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/405_deleteNodeInBST.cpp) | Trees - medium | 76% | 91% |
 | 27 | [701 - Insert into Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/701_insertIntoBinaryTree.cpp) | Trees - medium | 26% | 56% |
 | 26 | [875 - koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/875_kokoEatingBananas.cpp) | Binary Search - medium | 64% | 36% |
