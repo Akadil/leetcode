@@ -5,6 +5,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
+| 31 | [102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/102_binaryTreeLevelOrderTraversal.cpp) | Trees - medium | 63% | 41% |
 | 30 | [105 - Construct Binary tree from preorder and inorder travesal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/105_constructTreeFromPreIn.cpp) | Trees - medium | 86% | 96% |
 | 29 | [230 - Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/230_kthSmallestElementInBST.cpp) | Trees BST - medium | 86% | 69% |
 | 28 | [405 - Delete node in BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/405_deleteNodeInBST.cpp) | Trees - medium | 76% | 91% |
