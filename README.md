@@ -5,6 +5,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
+| 33 | [78 - subsets](https://leetcode.com/problems/subsets/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/78_subsets.cpp) | Backtracking - medium | 42% | 76% |
 | 32 | [199 - Binary Tree Right Side Biew](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/199_binaryTreeRightSideView.cpp) | Trees BFS - medium | 100% | 25% |
 | 31 | [102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/102_binaryTreeLevelOrderTraversal.cpp) | Trees - medium | 63% | 41% |
 | 30 | [105 - Construct Binary tree from preorder and inorder travesal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/105_constructTreeFromPreIn.cpp) | Trees - medium | 86% | 96% |
