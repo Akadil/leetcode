@@ -5,6 +5,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
+| 35 | [51 - N Queens](https://leetcode.com/problems/n-queens/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/51_nQueens.cpp) | Backtracking - hard | 86% | 45% |
 | 34 | [39 - Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/39_combinationSum.cpp) | Backtracking - medium | 100% | 49% |
 | 33 | [78 - subsets](https://leetcode.com/problems/subsets/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/78_subsets.cpp) | Backtracking - medium | 42% | 76% |
 | 32 | [199 - Binary Tree Right Side Biew](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/199_binaryTreeRightSideView.cpp) | Trees BFS - medium | 100% | 25% |
