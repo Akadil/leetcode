@@ -5,7 +5,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
-| 36 | [973 - K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/973_kclosestPointsToOrigin.cpp) | Heap - medium | 48% | 13% |
+| 36 (23) | [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/215_kthLargestElement.cpp) | Heap - medium | 66% | 45% |
+| 36 | [973 - K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/973_kclosestPointsToOrigin.cpp) | Heap - medium | 48% | 13% |
 | 35 | [51 - N Queens](https://leetcode.com/problems/n-queens/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/51_nQueens.cpp) | Backtracking - hard | 86% | 45% |
 | 34 | [39 - Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/39_combinationSum.cpp) | Backtracking - medium | 100% | 49% |
 | 33 | [78 - subsets](https://leetcode.com/problems/subsets/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/78_subsets.cpp) | Backtracking - medium | 42% | 76% |
