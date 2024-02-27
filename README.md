@@ -5,6 +5,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
+| 37 | [146 - LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/146_lruCache.cpp) | Hashing - medium | 91% | 80% |
 | 36 (23) | [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/215_kthLargestElement.cpp) | Heap - medium | 66% | 45% |
 | 36 | [973 - K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/973_kclosestPointsToOrigin.cpp) | Heap - medium | 48% | 13% |
 | 35 | [51 - N Queens](https://leetcode.com/problems/n-queens/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/51_nQueens.cpp) | Backtracking - hard | 86% | 45% |
