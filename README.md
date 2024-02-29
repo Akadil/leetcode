@@ -5,7 +5,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
-| 39 | [695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/200_numberOfIslands.cpp) | Graphs - medium | 87% | 65% |
+| 40 | [1091 - Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/https://github.com/Akadil/leetcode/blob/main/graphs/695_maxAreaOfIsland.cpp) | Graphs bfs - medium | 79% | 55% |
+| 39 | [695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/695_maxAreaOfIsland.cpp) | Graphs - medium | 87% | 65% |
 | 38 | [200 - Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/200_numberOfIslands.cpp) | Graphs - medium | 76% | 75% |
 | 37 | [146 - LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/146_lruCache.cpp) | Hashing - medium | 91% | 80% |
 | 36 (23) | [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/215_kthLargestElement.cpp) | Heap - medium | 66% | 45% |
