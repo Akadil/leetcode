@@ -1,10 +1,12 @@
-# leetcode
-Medium and Hard problems only \
+# leetcode (Medium, Hard)
 My leetcode account [Link](https://leetcode.com/Akadil/)
+
+### Problems solved in total: 
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 | |  |  |  |  |  |
+| 44 | [198 - House Robber](https://leetcode.com/problems/house-robber/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/198_houseRobber.cpp) | DP - medium | 100% | 65% |
 | 43 | [207 - Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/207_courseSchedule.cpp) | Graphs - meidum | 39% | 25% |
 | 42 | [133 - Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/133_cloneGraph.cpp) | Graphs - medium | 100% | 53% |
 | 41 | [994 - Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/994_rottingOranges.cpp) | Graphs bfs - medium | 60% | 43% |
