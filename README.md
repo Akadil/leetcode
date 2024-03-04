@@ -5,7 +5,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
-| 46 | [63 - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/198_houseRobber.cpp) | DP - medium | 100% | 60% |
+| 47 | [1143 - Longest Common Sequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/1143_longestCommonSequence.cpp) | DP - medium | 53% | 50% |
+| 46 | [63 - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/63_uniquePathII.cpp) | DP - medium | 100% | 60% |
 | 45 | [62 - Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/62_uniquePath.cpp) | DP - medium | 100% | 56% |
 | 44 | [198 - House Robber](https://leetcode.com/problems/house-robber/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/198_houseRobber.cpp) | DP - medium | 100% | 65% |
 | 43 | [207 - Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/207_courseSchedule.cpp) | Graphs - meidum | 39% | 25% |
