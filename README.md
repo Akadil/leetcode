@@ -1,10 +1,12 @@
 # leetcode (Medium, Hard)
 My leetcode account [Link](https://leetcode.com/Akadil/)
 
-### Problems solved in total: 92
+### Problems solved in total: 93
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
+|  |  |  |  |  |  |
+| 48 | [52 - N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/52_nQueensII.cpp) | Backtracking - Hard | 69% | 49% |
 | 47 | [1143 - Longest Common Sequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/1143_longestCommonSequence.cpp) | DP - medium | 53% | 50% |
 | 46 | [63 - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/63_uniquePathII.cpp) | DP - medium | 100% | 60% |
 | 45 | [62 - Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/62_uniquePath.cpp) | DP - medium | 100% | 56% |
