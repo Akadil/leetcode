@@ -1,7 +1,7 @@
 # leetcode (Medium, Hard)
 My leetcode account [Link](https://leetcode.com/Akadil/)
 
-### Problems solved in total: 
+### Problems solved in total: 92
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
