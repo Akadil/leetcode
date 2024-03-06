@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+|  51 | [978 - Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/978_longestTurbulentSubarray.cpp) | Arrays - medium | 86% | 75% |
 | 50  | [918 - Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/918_maximumSumCircularSubarray.cpp) | Arrays - medium | 64% | 78% |
 |  49 | [53 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/53_maximumSubarray.cpp) | Arrays - medium | 93% | 52% |
 | 48 | [52 - N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/52_nQueensII.cpp) | Backtracking - Hard | 69% | 49% |
