@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+|  49 | [53 - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/53_maximumSubarray.cpp) | Arrays - medium | 93% | 52% |
 | 48 | [52 - N Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/52_nQueensII.cpp) | Backtracking - Hard | 69% | 49% |
 | 47 | [1143 - Longest Common Sequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/1143_longestCommonSequence.cpp) | DP - medium | 53% | 50% |
 | 46 | [63 - Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/63_uniquePathII.cpp) | DP - medium | 100% | 60% |
@@ -47,14 +48,14 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 11 | [155 - Min Stack](https://leetcode.com/problems/min-stack/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/stack/155_minStack.py) | Stack - medium | 98% | 41% |
 | 10 | [42 - Trap Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/042_trappingRainWater.py) | 2 pointers - hard | 80% | 60% |
 | 9 | [11 - Contains Most Water](https://leetcode.com/problems/container-with-most-water/) | [Link](https://github.com/Akadil/leetcode/blob/main/2pointers/011_containerWithMostWater.py) | 2 pointers - medium | 90% | 60% |
-| 8 | [167 - Two Sum](https://leetcode.com/problems/two-sum-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/167_twoSu.py) | 2 pointers - medium | 70% | 90% |
-| 7 | [15 - 3 Sum](https://leetcode.com/problems/3sum/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/015_3sum.py) |  2 pointers - medium | 60% | 70% |
-| 6 | [128 - Longest Consecutive Numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/128_longestConsecutiveSequence.py) | Array - medium | 90% | 100% |
-| 5 | [36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/036_validSudoku.py) | Array - medium | 72% | 72% |
-| 4 | [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/238_productArrayExceptSelf.py) | Array - medium | 90% | 50% |
-| 3 | [347 - K frequent](https://leetcode.com/problems/top-k-frequent-elements/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/347_topKFrequentElements.py) | Array - medium | 60% | 100% |
-| 2 | [49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/049_groupAnagrams.py) | Array - medium | 55.1% | 77.2% | 
-| 1 | [2 - Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrayHashing/002_addTwoNumbers.py) | Array - medium | 88.9 % | 46.91% |
+| 8 | [167 - Two Sum](https://leetcode.com/problems/two-sum-input-array-is-sorted/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/167_twoSu.py) | 2 pointers - medium | 70% | 90% |
+| 7 | [15 - 3 Sum](https://leetcode.com/problems/3sum/description/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/015_3sum.py) |  2 pointers - medium | 60% | 70% |
+| 6 | [128 - Longest Consecutive Numbers](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/128_longestConsecutiveSequence.py) | Array - medium | 90% | 100% |
+| 5 | [36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/036_validSudoku.py) | Array - medium | 72% | 72% |
+| 4 | [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/238_productArrayExceptSelf.py) | Array - medium | 90% | 50% |
+| 3 | [347 - K frequent](https://leetcode.com/problems/top-k-frequent-elements/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/347_topKFrequentElements.py) | Array - medium | 60% | 100% |
+| 2 | [49 - Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/049_groupAnagrams.py) | Array - medium | 55.1% | 77.2% | 
+| 1 | [2 - Two Sum](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/Akadil/leetcode/blob/main/arrays/002_addTwoNumbers.py) | Array - medium | 88.9 % | 46.91% |
 | |  |  |  |  |  |
 
 Give the above code in descending order
