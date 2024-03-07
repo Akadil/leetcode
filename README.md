@@ -6,7 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
-| 55 | [424 - Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/424_longestRepeatingCharacterReplacement.cpp) | Arrays - medium | 5% | 67% |
+| 55 | [424 - Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/424_longestRepeatingCharacterReplacement.cpp) | Arrays - medium | 100% | 67% |
 | 54 | [3 - Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/003_longestSubstringWithoutRepeating.cpp) | Arrays - medium | 74% | 78% |
 | 53 | [209 - Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/209_minimumSizeSubarraySum.cpp) | Arrays - medium | 88% | 70% |
 | 52 | [1343 - Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/contains-duplicate-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/1343_numSubarraysKandThreshold.cpp) | Arrays - medium | 78% | 31% |
