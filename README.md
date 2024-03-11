@@ -5,7 +5,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
-| 57 (4) | [Product of an Array Except Itself](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/238_productofArrayExceptItself.cpp) | Arrays - medum |  |  |
+|  |  |  |  |  |  |
+| 57 (4) | [Product of an Array Except Itself](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/238_productofArrayExceptItself.cpp) | Arrays - medum | 75% | 51% |
 | 57 | [304 - Range Sum Query 2D - immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/304_rangeSumQuery2D.cpp) | Arrays - medium | 58% | 64% |
 | 56 (10) | [42 - Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/042_trappingRainWater.cpp) | Arrays - Hard | 75% | 76% |
 | 56 (9) | [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/011_containerWithMostWater.cpp) | Arrays - medium | 94% | 52% |
