@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 61 | [287 - Find a duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/287_findDuplicateNumber.cpp) | Linked List - medium | 60% | 70% |
 | 60 | [142 - Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/2130_maximumTwinSumLinkedList.cpp) | Linked List - medium | 100% | 70% |
 | 59 | [2130 - Maximum Twin sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/2130_maximumTwinSumLinkedList.cpp) | Linked List - medium | 95% | 49% |
 | 58 | [560 - Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/560_subarraySumEqualsK.cpp) | Arrays - medium | 84% | 86% |
