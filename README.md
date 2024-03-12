@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 60 | [142 - Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/2130_maximumTwinSumLinkedList.cpp) | Linked List - medium | 100% | 70% |
 | 59 | [2130 - Maximum Twin sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/2130_maximumTwinSumLinkedList.cpp) | Linked List - medium | 95% | 49% |
 | 58 | [560 - Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/560_subarraySumEqualsK.cpp) | Arrays - medium | 84% | 86% |
 | 57 (4) | [238 - Product of an Array Except Itself](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/238_productofArrayExceptItself.cpp) | Arrays - medum | 75% | 51% |
