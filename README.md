@@ -6,6 +6,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 63 | [211 - Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/211_designAddSearchWordDs.cpp) | Trees - medium | 86% | 67% |
+| 62 | [208 - Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/208_implementTrie.cpp) | Trees - medium | 93% | 72% |
 | 61 | [287 - Find a duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/287_findDuplicateNumber.cpp) | Linked List - medium | 60% | 70% |
 | 60 | [142 - Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/2130_maximumTwinSumLinkedList.cpp) | Linked List - medium | 100% | 70% |
 | 59 | [2130 - Maximum Twin sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [C++](https://github.com/Akadil/leetcode/blob/main/linked_list/2130_maximumTwinSumLinkedList.cpp) | Linked List - medium | 95% | 49% |
