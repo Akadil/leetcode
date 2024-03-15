@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 68 | [323 - Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/323_numberConnectedComponentsUndirectedGraph.cpp) | Graphs, Union Find - medium | Passed | Passed |
 | 67 | [721 - Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/721_accountsMerge.cpp) | Trees, Union Find - medium | 80% | 92% |
 | 66 | [684 - Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/684_redundantConnection.cpp) | Trees, union find - medium | 81% | 85% |
 | 65 | [212 - Word Search II](https://leetcode.com/problems/word-search-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/212_wordSearchII.cpp) | Trees, trie - hard | 22% | 42% |
