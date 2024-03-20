@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 69 | [295 - Find Median From Datastream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Python](https://github.com/Akadil/leetcode/blob/main/heaps/295_findMedianFromDatastream.py) | BST - hard | 12% | 72% |
 | 68 (6) | [128 - Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/128_longestConsecutiveSequence.cpp) | Arrays - Medium | 83% | 91% |
 | 68 | [323 - Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/323_numberConnectedComponentsUndirectedGraph.cpp) | Graphs, Union Find - medium | Passed | Passed |
 | 67 | [721 - Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/721_accountsMerge.cpp) | Trees, Union Find - medium | 80% | 92% |
@@ -41,9 +42,9 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | 40 | [1091 - Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/1091_shortestPathInMatrix.cpp) | Graphs bfs - medium | 79% | 55% |
 | 39 | [695 - Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/695_maxAreaOfIsland.cpp) | Graphs - medium | 87% | 65% |
 | 38 | [200 - Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/200_numberOfIslands.cpp) | Graphs - medium | 76% | 75% |
-| 37 | [146 - LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/146_lruCache.cpp) | Hashing - medium | 91% | 80% |
-| 36 (23) | [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/215_kthLargestElement.cpp) | Heap - medium | 66% | 45% |
-| 36 | [973 - K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](https://github.com/Akadil/leetcode/blob/main/heap/973_kclosestPointsToOrigin.cpp) | Heap - medium | 48% | 13% |
+| 37 | [146 - LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/146_lruCache.cpp) | Hashing - medium | 91% | 80% |
+| 36 (23) | [215 - Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/215_kthLargestElement.cpp) | Heap - medium | 66% | 45% |
+| 36 | [973 - K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/973_kclosestPointsToOrigin.cpp) | Heap - medium | 48% | 13% |
 | 35 | [51 - N Queens](https://leetcode.com/problems/n-queens/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/51_nQueens.cpp) | Backtracking - hard | 86% | 45% |
 | 34 | [39 - Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/39_combinationSum.cpp) | Backtracking - medium | 100% | 49% |
 | 33 | [78 - subsets](https://leetcode.com/problems/subsets/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/78_subsets.cpp) | Backtracking - medium | 42% | 76% |
