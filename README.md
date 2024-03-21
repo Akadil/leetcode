@@ -6,6 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 70 | [295 - Find Median From Datastream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/295_findMedianFromDatastream.cpp) | Heaps, two - hard | 88% | 84% |
 | 70 | [295 - Find Median From Datastream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Python](https://github.com/Akadil/leetcode/blob/main/heaps/295_findMedianFromDatastream.py) | BST - hard | 12% | 72% |
 | 69 | [307 - Range Sum Query - mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/307_runSumQuery.cpp) | Trees, Segment Tree - medium | 19% | 6% |
 | 68 (6) | [128 - Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/128_longestConsecutiveSequence.cpp) | Arrays - Medium | 83% | 91% |
