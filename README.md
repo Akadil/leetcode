@@ -6,7 +6,7 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
-| 71 | [480 - Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/480_slidingWindowMedian.cpp) | Heaps, two - hard | 32 / 43 | passed |
+| 71 | [480 - Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/480_slidingWindowMedian.cpp) | Heaps, two - hard | 42 / 43 | passed |
 | 70 | [295 - Find Median From Datastream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/295_findMedianFromDatastream.cpp) | Heaps, two - hard | 88% | 84% |
 | 70 | [295 - Find Median From Datastream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [Python](https://github.com/Akadil/leetcode/blob/main/heaps/295_findMedianFromDatastream.py) | BST - hard | 12% | 72% |
 | 69 | [307 - Range Sum Query - mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](https://github.com/Akadil/leetcode/blob/main/trees/307_runSumQuery.cpp) | Trees, Segment Tree - medium | 19% | 6% |
