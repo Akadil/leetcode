@@ -12,27 +12,27 @@ public:
 
         // Base step, first window
         for (int i = 0; i < k; ++i)
-            addNum(nums, i);
-        returner.push_back(findMedian(nums));
+            addNum(nums[i]);
+        returner.push_back(findMedian());
 
         // Inductive step, traverse through windows
         for (int i = 1; i < nums.size() - k + 1; ++i) {
-            removeNum(nums, i - 1);
+            removeNum(nums[i - 1]);
             normalizeHeaps();
-            addNum(nums, i + k - 1);
-            returner.push_back(findMedian(nums));
+            addNum(nums[i + k - 1]);
+            returner.push_back(findMedian());
         }
 
         return (returner);
     }
 
-    double findMedian(vector<int>& nums) {
+    double findMedian() {
         if (lower.size() > higher.size())
-            return (nums[lower.top()]);
+            return (lower.top());
         else if (lower.size() < higher.size())
-            return (nums[higher.top()]);
+            return (higher.top());
         else
-            return ((double)(nums[higher.top()] + nums[lower.top()]) / 2);
+            return ((double)higher.top() / 2 + (double)lower.top() / 2);
     }
 
 
@@ -47,88 +47,84 @@ public:
         }
     }
 
-    void removeNum(vector<int>& nums, int index) {
-        vector<int> container;  // vector of indexes
-        int         num;
+    void removeNum(int myNum) {
+        int size = 0;
+        int num;
 
-        if (map[index] == 1) {
-            // Work with higher one
+        if (higher.empty() == false) {
             num = higher.top();
             higher.pop();
-            map.erase(num);
 
-            while (num != index) {
-                container.push_back(num);
+            while (num != myNum) {
+                lower.push(num);
+                size++;
 
+                if (higher.empty() == true)
+                    break;
                 num = higher.top();
                 higher.pop();
-                map.erase(num);
             }
-            while (container.empty() == false) {
-                higher.push(container.back());
-                container.pop_back();
+            while (size != 0) {
+                higher.push(lower.top());
+                lower.pop();
+                size--;
             }
-        } else {
+            if (num == myNum) 
+                return;
+        }
+        if (lower.empty() == false) {
             num = lower.top();
             lower.pop();
-            map.erase(num);
 
-            while (num != index) {
-                container.push_back(num);
+            while (num != myNum) {
+                higher.push(num);
+                size++;
 
                 num = lower.top();
                 lower.pop();
-                map.erase(num);
             }
-            while (container.empty() == false) {
-                lower.push(container.back());
-                container.pop_back();
+            while (size != 0) {
+                lower.push(higher.top());
+                higher.pop();
+                size--;
             }
         }
     }
 
-    void addNum(vector<int>& nums, int index) {
-        // lower.push(num);
+    void addNum(int num) {
         if (lower.size() == higher.size()) {
-            if (higher.empty() == false && nums[index] > higher.top()) {
-                higher.push(index);
-                map[index] = 1;
+            if (higher.empty() == false && num > higher.top()) {
+                higher.push(num);
             }
             else { // num < lower.top() || (higher.top() > num > lower.top())
-                lower.push(index);
-                map[index] = 0;
+                lower.push(num);
             }  
         }
         else if (lower.size() > higher.size()) {
-            if (lower.top() < nums[index]) {
-                higher.push(index);
-                map[index] = 1;
+            if (lower.top() < num) {
+                higher.push(num);
             }
             else {
-                map[lower.top()] = 0; 
                 higher.push(lower.top());
                 lower.pop();
-                lower.push(index);
+                lower.push(num);
             }
         }
         else {  // lower.size() < higher.size()
-            if (higher.top() > nums[index]) {
-                lower.push(index);
-                map[index] = 0;
+            if (higher.top() > num) {
+                lower.push(num);
             }
             else {
-                map[higher.top()] = 1;
                 lower.push(higher.top());
                 higher.pop();
-                higher.push(index);
+                higher.push(num);
             }
         }
     }
 
 private:
-    priority_queue<int>                             higher;  // maxHeap - 0
-    priority_queue<int, vector<int>, greater<int>>  lower; // minHeap - 1
-    unordered_map<int, bool>                        map;   // index to heap
+    priority_queue<int>                             lower;  // maxHeap - 0
+    priority_queue<int, vector<int>, greater<int>>  higher; // minHeap - 1
 };
 
 int main(void) {
@@ -136,14 +132,16 @@ int main(void) {
     /*
         [1,3,-1,-3,5,3,6,7]
         [1,2,3,4,2,3,1,4,2]
+        [7,9,3,8,0,2,4,8,3,9]
     */
 
     // vector<int> nums = {1,3,-1,-3,5,3,6,7};
-    vector<int> nums2 = {1,2,3,4,2,3,1,4,2};
+    // vector<int> nums2 = {1,2,3,4,5,6, 7, 8, 9};
+    vector<int> nums3 = {7,9,3,8,0,2,4,8,3,9};
     int         k = 3;
 
     Solution    sol;
-    vector<double>  result = sol.medianSlidingWindow(nums2, k);
+    vector<double>  result = sol.medianSlidingWindow(nums3, 1);
 
     for (auto& r : result)
         cout << r << " ";
