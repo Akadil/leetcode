@@ -6,6 +6,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 77 | [55 - Jump Game](https://leetcode.com/problems/jump-game/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/55_jumpGame.cpp) | Greedy, dp - medium | 90% | 82% |
+| 76 | [33 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/33_searchRotatedSortedArray.cpp) | Binary Search - medium | 100% | 36% |
 | 75 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/153_findMinimumRotatedArray.cpp) | Binary Search - medium | 57% | 90% |
 | 74 | [76 - Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/76_minimumWindowSubstring.cpp) | Arrays, Sliding Window - hard | 70% | 67% |
 | 73 | [90 - Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/90_subsetsII.cpp) | Backtracking - medium | 100% | 25% |
