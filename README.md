@@ -6,6 +6,8 @@ My leetcode account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 75 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/153_findMinimumRotatedArray.cpp) | Binary Search - medium | 57% | 90% |
+| 74 | [76 - Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/arrays/76_minimumWindowSubstring.cpp) | Arrays, Sliding Window - hard | 70% | 67% |
 | 73 | [90 - Subsets II](https://leetcode.com/problems/subsets-ii/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/backtracking/90_subsetsII.cpp) | Backtracking - medium | 100% | 25% |
 | 72 | [502 - IPO](https://leetcode.com/problems/ipo/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/502_ipo.cpp) | Heaps, two - Hard | 83% | 72% |
 | 71 | [480 - Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [C++](https://github.com/Akadil/leetcode/blob/main/heaps/480_slidingWindowMedian.cpp) | Heaps, two - hard | 38% | 10% |
