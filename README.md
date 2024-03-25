@@ -1,11 +1,12 @@
 # leetcode (Medium, Hard)
 My leetcode account [Link](https://leetcode.com/Akadil/)
 
-### Problems solved in total: 117
+### Problems solved in total: 126
 
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 78 | [416 - Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/416_partitionEqualSubset.cpp) | DP, Knapsack - medium | 5% | 7% |
 | 77 | [55 - Jump Game](https://leetcode.com/problems/jump-game/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/55_jumpGame.cpp) | Greedy, dp - medium | 90% | 82% |
 | 76 | [33 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/33_searchRotatedSortedArray.cpp) | Binary Search - medium | 100% | 36% |
 | 75 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [C++](https://github.com/Akadil/leetcode/blob/main/binary_search/153_findMinimumRotatedArray.cpp) | Binary Search - medium | 57% | 90% |
