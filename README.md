@@ -1,5 +1,5 @@
 # leetcode (Medium, Hard)
-My leetcode account [Link](https://leetcode.com/Akadil/)
+My "leetcode" account [Link](https://leetcode.com/Akadil/)
 
 ### Problems solved in total: 126
 
