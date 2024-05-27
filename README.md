@@ -6,6 +6,7 @@ My "leetcode" account [Link](https://leetcode.com/Akadil/)
 | # | Title | Solution | Topic and problem level | Time | Space |
 |---| ----- | -------- | ----------------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 80 | [743 - Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/743_networkDelayTime.cpp) | Graphs, Dijkstra's - medium | 68% | 15% |
 | 79 | [494 - Target Sum](https://leetcode.com/problems/target-sum/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/494_targetSum.cpp) | Dynamic Programming, Knapsack - Medium | 33% | 10% |
 | 78 | [416 - Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/416_partitionEqualSubset.cpp) | DP, Knapsack - medium | 5% | 7% |
 | 77 | [55 - Jump Game](https://leetcode.com/problems/jump-game/) | [C++](https://github.com/Akadil/leetcode/blob/main/dynamic_programming/55_jumpGame.cpp) | Greedy, dp - medium | 90% | 82% |

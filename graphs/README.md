@@ -15,6 +15,7 @@
 | # | Title | Solution | Problem level | Time | Space |
 |---| ----- | -------- | ------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 8 | [743 - Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/743_networkDelayTime.cpp) | Medium - Dijkstra's | 68% | 15% |
 | 7 | [323 - Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/323_numberConnectedComponentsUndirectedGraph.cpp) | medium - Union Find | Passed | Passed |
 | 6 | [207 - Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/207_courseSchedule.cpp) | medium - adjacency List | 39% | 25% |
 | 5 | [133 - Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/133_cloneGraph.cpp) | medium - adjacency List | 100% | 53% |
@@ -100,4 +101,74 @@ Mainly used for shortest path. The idea is that we make one step, and then store
 </p>
 
 ---
+</details>
+
+
+<!-------------- Dijkstra's algorithm ---------------------->
+<details>
+<summary>Dijkstra's algorithm (shortest path)</summary>
+
+---
+We use this algorithm to find the shortest path. Usually we use BFS algorithm, but what if the weight of edges is not equal? This is when Dijkstra's algrotihm come in hand
+
+<img src="./static/image.png">
+
+* <b>Question:</b> starting from A, find the length of the shortest path to every other node 
+* <b>Solution:</b> Our goal is to start from A and add to minHeap all neighbors of A. Then by popping the min Node from minHeap, we firstly add the node to our table, and secondly add all its neighbors to minHeap again. Then repeat the operation 
+* <b>Time complexity: E * logV</b>, where E is number of edges as we have to add go through each node, then logV as we have to pop the min Node from minHeap in each operation
+* <b>When to use: </b> Shortest path with some edges. I use this
+
+#### Code implementation
+```c++
+#include <vector>
+#include <unordered_map>
+#include <utility>
+#include <queue>
+
+using std::vector;
+using std::unordered_map;
+using std::pair;
+using std::make_pair;
+using std::priority_queue;
+using std::greater;
+
+/**
+ * vector<vector<int>> is matrix of [N][3]
+*/
+unordered_map<int, int> shortestPath(vector<vector<int>>& edges, int n, int src) {
+    
+    // Set up the proper format (adjacency list). node -> neigbours[]
+    unordered_map<int, vector<pair<int, int>>> adj;
+    for (int i = 1; i < n + 1; i++) {
+        adj[i] = vector<pair<int, int>>();
+    }
+    for (vector<int> edge : edges) {
+        // s = src, d = dst, w = weight
+        int s = edge[0], d = edge[1], w = edge[2];
+        adj[s].push_back(make_pair(d, w));
+    }
+
+    unordered_map<int, int> shortest;
+    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int, int>>> minHeap; 
+    minHeap.push({0, src});
+    while (!minHeap.empty()) {
+        pair<int, int> p = minHeap.top();
+        minHeap.pop();
+        int w1 = p.first, n1 = p.second;
+
+        if (shortest.count(n1) > 0) {
+            continue;
+        }
+        shortest[n1] = w1;
+        for (pair<int, int> p : adj[n1]) {
+            int n2 = p.first, w2 = p.second;
+            if (shortest.count(n2) == 0) {
+                minHeap.push({w1 + w2, n2});
+            }
+        }
+    }
+    return shortest;
+}
+```
+
 </details>
