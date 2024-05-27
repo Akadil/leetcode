@@ -5,7 +5,7 @@
 - [Beginner] DFS algorithm <input type="checkbox" checked></button>
 - [Beginner] BFS algorithm <input type="checkbox" checked></button>
 - [Beginner] Adjacency list <input type="checkbox" checked></button>
-- [Advanced] Dijkstra's algorithm <input type="checkbox"></button>
+- [Advanced] Dijkstra's algorithm <input type="checkbox" checked></button>
 - [Advanced] Prim's algorithm <input type="checkbox"></button>
 - [Advanced] Kruskal's algorithm <input type="checkbox"></button>
 - [Advanced] Topological sort <input type="checkbox"></button>
@@ -15,6 +15,7 @@
 | # | Title | Solution | Problem level | Time | Space |
 |---| ----- | -------- | ------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 10 | [1514 - Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/778_swimInRaisingWater.cpp) | Medium - Dijkstra's | 30% | 12% |
 | 9 | [778 - Swim in Raising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/778_swimInRaisingWater.cpp) | Hard - Dijkstra's | 10% | 5% |
 | 8 | [743 - Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/743_networkDelayTime.cpp) | Medium - Dijkstra's | 68% | 15% |
 | 7 | [323 - Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/323_numberConnectedComponentsUndirectedGraph.cpp) | medium - Union Find | Passed | Passed |
