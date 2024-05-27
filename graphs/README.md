@@ -15,6 +15,7 @@
 | # | Title | Solution | Problem level | Time | Space |
 |---| ----- | -------- | ------------- | ---- | ----- |
 |  |  |  |  |  |  |
+| 9 | [778 - Swim in Raising Water](https://leetcode.com/problems/swim-in-rising-water/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/778_swimInRaisingWater.cpp) | Hard - Dijkstra's | 10% | 5% |
 | 8 | [743 - Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/743_networkDelayTime.cpp) | Medium - Dijkstra's | 68% | 15% |
 | 7 | [323 - Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/323_numberConnectedComponentsUndirectedGraph.cpp) | medium - Union Find | Passed | Passed |
 | 6 | [207 - Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](https://github.com/Akadil/leetcode/blob/main/graphs/207_courseSchedule.cpp) | medium - adjacency List | 39% | 25% |
